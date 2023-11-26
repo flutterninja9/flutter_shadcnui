@@ -1,5 +1,3 @@
 library flutter_shadcnui;
 
-class FlutterSCUI {
-  int addOne(int value) => value + 1;
-}
+export './components/scui_accordion.dart';
